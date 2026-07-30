@@ -31,7 +31,7 @@
     "image4.png",
     "image6.png",
   ];
-  const photoCaptions = ["Our first date","So beautiful","Movie nights","Your smile","Us, always","so pretty"];
+  const photoCaptions = ["Our first date","So beautiful","Movie nights","Your voice was my favorite comfort","Us, always","so pretty"];
   /* ============================================================ */
 
   const flowerPalette = [
